@@ -1,4 +1,4 @@
-# Semana-3---06-12-04
+# Semana-3---06-12/04
 
 Nesta semana vamos falar sobre listas. Listas com marcadores e listas numeradas.
 
